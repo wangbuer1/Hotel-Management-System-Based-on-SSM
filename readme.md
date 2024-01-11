@@ -1,8 +1,4 @@
-# 基于SSM的酒店管理系统
-
-公众号卡片
-
-
+# 基于SSM的酒店管理系统3
 
 ## 1、项目介绍
 
@@ -36,19 +32,19 @@
 
 ### 4.1 登录
 
-![用户登录](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220511102214.jpg)
+![用户登录](https://www.codeshop.fun/Typora-Images/20220511102214.jpg)
 
-![管理员登录](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220511102220.jpg)
+![管理员登录](https://www.codeshop.fun/Typora-Images/20220511102220.jpg)
 
 上图分别为用户和管理员的登录界面，均需要输入正确的验证码才能登录至系统，在用户登录界面下方点击“登录后台”按钮就可跳转到管理员登录界面
 
 ### 4.2 用户模块
 
-![首页信息](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220511102357.jpg)
+![首页信息](https://www.codeshop.fun/Typora-Images/20220511102357.jpg)
 
-![客户预订界面](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220511102404.jpg)
+![客户预订界面](https://www.codeshop.fun/Typora-Images/20220511102404.jpg)
 
-![用户中心](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220511102408.jpg)
+![用户中心](https://www.codeshop.fun/Typora-Images/20220511102408.jpg)
 
 查看房间：在首页中，用户可以依据关键字模糊查询房间信息，并能够查看房间详情
 
@@ -58,17 +54,17 @@
 
 ### 4.3 管理员模块
 
-![管理员-用户管理](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220511102757.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/20220511102757.jpg)
 
-![管理员-楼层管理](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220511102902.jpg)
+![管理员-楼层管理](https://www.codeshop.fun/Typora-Images/20220511102902.jpg)
 
-![管理员-房型管理](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220511102926.jpg)
+![管理员-房型管理](https://www.codeshop.fun/Typora-Images/20220511102926.jpg)
 
-![管理员-预订管理](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220511103055.jpg)
+![管理员-预订管理](https://www.codeshop.fun/Typora-Images/20220511103055.jpg)
 
-![管理员-入住管理](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220511103156.jpg)
+![管理员-入住管理](https://www.codeshop.fun/Typora-Images/20220511103156.jpg)
 
-![管理员-营业统计](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220511103241.jpg)
+![管理员-营业统计](https://www.codeshop.fun/Typora-Images/20220511103241.jpg)
 
 用户管理：管理员可以对用户进行增删改查操作，同时可以依据用户名、角色类型、性别多条件查询用户信息详情
 
@@ -84,24 +80,17 @@
 
 营业统计：管理员可以根据按月、按日统计营业额
 
-## 5、视频演示
+### 4.4文档目录
 
-[点击播放视频，视频位于文章最后](https://mp.weixin.qq.com/s/s4aXOAFhA06lK2o9IZktOA)
+![文档目录](https://www.codeshop.fun/Typora-Images/202208142011885.jpg)
+
+
 
 ## 6、获取方式
 
 关注公众号： **程序员王不二**，回复 “酒店3 ” ，即可免费获取完整版的项目代码。
 
-![image-20220509000010316](https://gitee.com/buer_wang/project-drawing-bed/raw/master/Typora-Images/20220509000012.png)
-
-## 7、其它项目
-
-* [点击访问各种项目源码](https://mp.weixin.qq.com/s?__biz=MzkwMjM1MjM0Ng==&mid=2247483834&idx=1&sn=40517cecf36ce5d7663ed774a033fa2c&chksm=c0a79d0ff7d0141943c5d8da40b489e8ecdda5c345568776f475576506c76a954bd8238dc4f5#rd)
-* [SSM框架项目](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMjM1MjM0Ng==&action=getalbum&album_id=2387377591113859072#wechat_redirect)
-
-* [springboot项目](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMjM1MjM0Ng==&action=getalbum&album_id=2387377898791223296#wechat_redirect)
-
-* [简单无框架项目](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMjM1MjM0Ng==&action=getalbum&album_id=2387378317047218183#wechat_redirect)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
   
 
